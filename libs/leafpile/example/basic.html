@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Leafpile Basic Marker Clustering Example</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Demo of Leafpile functionality">
+    <meta name="author" content="cavis">
+    <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/1.5.2/css/ionicons.min.css">
+    <link href="../external/leaflet/leaflet.css" rel="stylesheet">
+    <style type="text/css">
+        #options {
+            margin-bottom: 30px;
+        }
+
+        #leaflet-map {
+            height: 500px;
+            width: 800px;
+        }
+
+        .center {
+            width: 800px;
+            margin: 0 auto;
+        }
+
+    </style>
+</head>
+
+<body>
+<button id="enable">Enable</button>
+<button id="disable">Disable</button>
+<div id="leaflet-map" class="center"></div>
+
+<script src="../external/leaflet/leaflet-src.js"></script>
+<script src="http://maps.stamen.com/js/tile.stamen.js"></script>
+<script src="../src/LeafpileGroup.js"></script>
+<script src="../src/LeafpileIcon.js"></script>
+<script src="../src/Leafpile.js"></script>
+
+<script src="data-200.js"></script>
+<script type="text/javascript">
+    var map = new L.Map('leaflet-map');
+    var tiles = new L.StamenTileLayer('toner');
+    map.addLayer(tiles);
+    map.setView(new L.LatLng(44.943829, -93.093326), 12);
+
+    var greenIcon = L.icon({
+        iconUrl: 'data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+Cjxzdmcgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogPCEtLSBDcmVhdGVkIHdpdGggTWV0aG9kIERyYXcgLSBodHRwOi8vZ2l0aHViLmNvbS9kdW9waXhlbC9NZXRob2QtRHJhdy8gLS0+CiA8Zz4KICA8dGl0bGU+YmFja2dyb3VuZDwvdGl0bGU+CiAgPHJlY3QgZmlsbD0iI2ZmZiIgaWQ9ImNhbnZhc19iYWNrZ3JvdW5kIiBoZWlnaHQ9IjIyIiB3aWR0aD0iMjIiIHk9Ii0xIiB4PSItMSIvPgogIDxnIGRpc3BsYXk9Im5vbmUiIG92ZXJmbG93PSJ2aXNpYmxlIiB5PSIwIiB4PSIwIiBoZWlnaHQ9IjEwMCUiIHdpZHRoPSIxMDAlIiBpZD0iY2FudmFzR3JpZCI+CiAgIDxyZWN0IGZpbGw9InVybCgjZ3JpZHBhdHRlcm4pIiBzdHJva2Utd2lkdGg9IjAiIHk9IjAiIHg9IjAiIGhlaWdodD0iMTAwJSIgd2lkdGg9IjEwMCUiLz4KICA8L2c+CiA8L2c+CiA8Zz4KICA8dGl0bGU+TGF5ZXIgMTwvdGl0bGU+CiAgPGVsbGlwc2Ugcnk9IjEwIiByeD0iMTAiIGlkPSJzdmdfMSIgY3k9IjEwIiBjeD0iMTAiIHN0cm9rZS13aWR0aD0iMCIgZmlsbD0iIzAwMDAwMCIvPgogPC9nPgo8L3N2Zz4=',
+        iconSize: [20, 20],
+        iconAnchor: [10, 10]
+    });
+
+    var markers = [];
+    for (var i = 0; i < EXAMPLEDATA.length; i++) {
+        var loc = EXAMPLEDATA[i];
+        var mark = new L.Marker(new L.LatLng(loc[0], loc[1]), {icon: greenIcon});
+        // var mark = new L.circleMarker(new L.LatLng(loc[0], loc[1]));
+        markers.push(mark);
+    }
+
+    var options = {radius: 120, maxZoomLevel: 13};
+    var group = new L.LeafpileGroup(options, markers);
+    map.addLayer(group);
+
+    group.on('click', function (e) {
+        if (e.leafpile) {
+            var pp = randomInt(0, 1);
+            console.log(pp);
+            if (pp == 1) {
+                e.leafpile.bindPopup('you clicked on ' + e.markers.length + ' markers');
+                e.leafpile.openPopup();
+                e.cancelZoom();
+            }
+        }
+        else {
+            e.markers[0].bindPopup("you clicked on me");
+            e.markers[0].openPopup();
+        }
+    });
+
+    // generate random integers
+    function randomInt(min, max) {
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    document.getElementById('enable').onclick = function () {
+        group.setRadius(120);
+    }
+    document.getElementById('disable').onclick = function () {
+        group.setRadius(0);
+    }
+
+</script>
+
+</body>
+</html>
+
+
+

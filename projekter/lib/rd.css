@@ -1,0 +1,145 @@
+@font-face {
+    font-family: ipbold;
+    src: url(ItalianPlateNo2Exp-BdWEB.woff);
+}
+
+@font-face {
+    font-family: ipblack;
+    src: url(ItalianPlateNo2Exp-BlkWEB.woff);
+}
+
+@font-face {
+    font-family: ipdemibold;
+    src: url(ItalianPlateNo2Exp-DBdWEB.woff);
+}
+
+.s_result {
+    cursor: pointer;
+}
+
+.s_result:hover {
+    color: #f9001f;
+}
+
+#logo {
+    position: absolute;
+    right: 20px;
+    margin: 10px 10px 0 0;
+    width: 70em;
+    height: auto;
+
+}
+
+dd {
+    color: silver
+}
+
+.input-control input, .input-control textarea, .input-control select {
+    font-family: ipdemibold;
+    color: #d9d9d9;
+}
+
+#map {
+    height: 550px;
+    width: 670px;
+    float: left;
+}
+
+#results {
+    width: 300px;
+    background: white;
+    max-height: 300px;
+    overflow: auto;
+}
+
+#info {
+    position: absolute;
+    font-family: ipbold;
+    border: 1px #d9d9d9 solid;
+    width: 300px;
+    height: auto;
+    padding: 5px;
+    left: 1020px;
+    top: 25px;
+}
+
+#info table tr td:nth-child(1) {
+    font-family: ipdemibold;
+    color: #d9d9d9;
+}
+
+#controls {
+    width: 300px;
+    position: absolute;
+    padding: 20px;
+    left: 640px;
+}
+
+#street {
+    border: 1px solid #d9d9d9;
+    padding: 5px;
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    right: 20px;
+    top: 230px;
+}
+
+.tooltip {
+    display: none;
+    position: absolute;
+    border: 1px solid #333;
+    background-color: #161616;
+    padding: 10px;
+    color: #fff;
+    font-family: ipdemibold;
+    font-size: 10px;
+}
+
+body {
+    font-family: ipblack;
+    font-size: 14px;
+}
+
+ul {
+    list-style: none;
+}
+
+.input-control.text {
+    width: 12rem;
+}
+
+#programmer label {
+    margin-bottom: -20px;
+}
+
+input, textarea, keygen, select, button {
+    font-family: ipdemibold;
+}
+
+.input-control.checkbox, .input-control.radio {
+    line-height: 0;
+    font-family: ipdemibold;
+    font-size: .6rem;
+}
+
+.caption {
+    font-size: 14px;
+    padding-left: 20px;
+}
+
+.vis-inner, #resetMap, #resetTimeline {
+    cursor: pointer;
+}
+
+.vis-inner:hover, #reset:hover {
+    color: blue
+}
+
+.vis-item {
+    cursor: pointer;
+    font-family: ipdemibold;
+    color: #d9d9d9;
+    border-color: #000;
+}
+

@@ -1,0 +1,1469 @@
+{
+    "groups": [
+        {
+            "id": 0,
+            "content": "Rum for alle"
+        },
+        {
+            "id": 1,
+            "content": "Den levende bygningsarv"
+        },
+        {
+            "id": 2,
+            "content": "Uden for program"
+        },
+        {
+            "id": 3,
+            "content": "Byer for mennesker"
+        },
+        {
+            "id": 4,
+            "content": "Mulighedernes Danmark"
+        },
+        {
+            "id": 5,
+            "content": "Innovation i byggeriet"
+        },
+        {
+            "id": 6,
+            "content": "P\u00e5 tv\u00e6rs af programmer"
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "content": "PRJ-2013-00578",
+            "adresse": "Granvej 3,2880 Bagsv\u00e6rd",
+            "navn": "Fremtidens d\u00f8gnmilj\u00f8 for b\u00f8rn med autisme",
+            "start": "2013-12-05",
+            "end": "2016-12-31",
+            "bevilget": 15000000,
+            "type": "point",
+            "group": 0,
+            "latlon": {
+                "lat": 55.7601796,
+                "lng": 12.4474054
+            }
+        },
+        {
+            "id": 2,
+            "content": "PRJ-2013-00566",
+            "adresse": "Nystedvej 71,4891 Toreby L",
+            "navn": "Fuglsang, forpagterboligen realisering",
+            "start": "2013-12-05",
+            "end": "2015-12-31",
+            "bevilget": 16000000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 54.733212,
+                "lng": 11.80633
+            }
+        },
+        {
+            "id": 3,
+            "content": "PRJ-2013-00593",
+            "adresse": "Carl Jacobsens Vej 39,2500 Valby",
+            "navn": "Frederiks Bastion",
+            "start": "2013-12-11",
+            "end": "2014-10-01",
+            "bevilget": 1000000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.6557793,
+                "lng": 12.5124009
+            }
+        },
+        {
+            "id": 4,
+            "content": "PRJ-2015-00173",
+            "adresse": "Pasteursvej 14, 4. tv. (6. etage),1799 K\u00f8benhavn V",
+            "navn": "Bogudgivelse om Thorvald Bindesb\u00f8ll",
+            "start": "2015-04-27",
+            "end": "2016-12-31",
+            "bevilget": 50000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.6656504,
+                "lng": 12.535498
+            }
+        },
+        {
+            "id": 5,
+            "content": "PRJ-2015-00011",
+            "adresse": "Tesdorpfsvej 50,2000 Frederiksberg",
+            "navn": "Ilimanaq - en bygd i Gr\u00f8nland",
+            "start": "2015-01-12",
+            "end": "2017-06-01",
+            "bevilget": 1155000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.686788,
+                "lng": 12.5153953
+            }
+        },
+        {
+            "id": 6,
+            "content": "PRJ-2014-00159",
+            "adresse": "Vardevej 1,7400 Herning",
+            "navn": "Fremtidens Messecenter, Herning (MCH) - Timeworld",
+            "start": "2014-12-18",
+            "end": "2019-12-31",
+            "bevilget": 150000000,
+            "type": "point",
+            "group": 2,
+            "latlon": {
+                "lat": 56.121495,
+                "lng": 8.9515934
+            }
+        },
+        {
+            "id": 7,
+            "content": "PRJ-2014-00143",
+            "adresse": "Hjort\u00f8gade 3,2100 K\u00f8benhavn \u00d8",
+            "navn": "Sophus Baggers b\u00f8rnehave",
+            "start": "2014-11-24",
+            "end": "2015-06-30",
+            "bevilget": 1300000,
+            "type": "point",
+            "group": 2,
+            "latlon": {
+                "lat": 55.7107754,
+                "lng": 12.5766946
+            }
+        },
+        {
+            "id": 8,
+            "content": "PRJ-2015-00001",
+            "adresse": "N\u00f8rrevej 1,6280 H\u00f8jer",
+            "navn": "K\u00f8bmandsg\u00e5rd og villa i H\u00f8jer",
+            "start": "2015-01-05",
+            "end": "2016-12-31",
+            "bevilget": 10875000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 54.964183,
+                "lng": 8.696135
+            }
+        },
+        {
+            "id": 9,
+            "content": "PRJ-2015-00015",
+            "adresse": "Nyringen 30,8240 Risskov",
+            "navn": "Ultrab\u00e6redygtige pauserum",
+            "start": "2015-01-26",
+            "end": "2015-12-30",
+            "bevilget": 250000,
+            "type": "point",
+            "group": 3,
+            "latlon": {
+                "lat": 56.191486,
+                "lng": 10.201493
+            }
+        },
+        {
+            "id": 10,
+            "content": "PRJ-2015-00002",
+            "adresse": "Frederiksberg All\u00e9 41,2000 Frederiksberg",
+            "navn": "Bygherrekonkurrence om byggeri p\u00e5 ejendommen Frederiksberg All\u00e9 41",
+            "start": "2015-01-12",
+            "end": "2015-12-31",
+            "bevilget": 1000000,
+            "type": "point",
+            "group": 3,
+            "latlon": {
+                "lat": 55.683768,
+                "lng": 12.536576
+            }
+        },
+        {
+            "id": 11,
+            "content": "PRJ-2015-00008",
+            "adresse": "Erikdalsvej 29,4871 Horbelev",
+            "navn": "Kulturg\u00e5rden i Horbelev",
+            "start": "2015-01-12",
+            "end": "2015-12-01",
+            "bevilget": 1500000,
+            "type": "point",
+            "group": 4,
+            "latlon": {
+                "lat": 54.8264154,
+                "lng": 12.0550125
+            }
+        },
+        {
+            "id": 12,
+            "content": "PRJ-2015-00017",
+            "adresse": "Borgergade 111,1300 K\u00f8benhavn K",
+            "navn": "Bygherrers kompetenceudvikling",
+            "start": "2015-01-26",
+            "end": "2015-09-30",
+            "bevilget": 760000,
+            "type": "point",
+            "group": 5,
+            "latlon": {
+                "lat": 55.688044,
+                "lng": 12.588407
+            }
+        },
+        {
+            "id": 13,
+            "content": "PRJ-2015-00014",
+            "adresse": "N\u00f8rregade 6, 1.,1165 K\u00f8benhavn K",
+            "navn": "Bo i lykken - n\u00e5r livet mellem blokkene bliver kulturarv",
+            "start": "2015-01-26",
+            "end": "2015-11-30",
+            "bevilget": 400000,
+            "type": "point",
+            "group": 3,
+            "latlon": {
+                "lat": 55.678863,
+                "lng": 12.5722093
+            }
+        },
+        {
+            "id": 14,
+            "content": "PRJ-2015-00007",
+            "adresse": "\u00c5lb\u00e6kvej 18,7860 Sp\u00f8ttrup",
+            "navn": "Lihme Medborgerhus",
+            "start": "2015-01-12",
+            "end": "2015-07-01",
+            "bevilget": 950000,
+            "type": "point",
+            "group": 4,
+            "latlon": {
+                "lat": 56.6019815,
+                "lng": 8.732503
+            }
+        },
+        {
+            "id": 15,
+            "content": "PRJ-2015-00010",
+            "adresse": "Agro Food Park 13,8200 Aarhus N",
+            "navn": "Masterplan for Agro Food Park",
+            "start": "2015-01-12",
+            "end": "2015-12-31",
+            "bevilget": 2500000,
+            "type": "point",
+            "group": 4,
+            "latlon": {
+                "lat": 56.2011279,
+                "lng": 10.1583402
+            }
+        },
+        {
+            "id": 16,
+            "content": "PRJ-2011-00269",
+            "adresse": "Hobrovej 88,9530 St\u00f8vring",
+            "navn": "Infoportal - Rebild Bakker og Rold Skov",
+            "start": "2011-04-14",
+            "end": "2014-05-01",
+            "bevilget": 8000000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 56.889265,
+                "lng": 9.836285
+            }
+        },
+        {
+            "id": 17,
+            "content": "PRJ-2015-00029",
+            "adresse": "Tesdorpfsvej 50,2000 Frederiksberg",
+            "navn": "Bog om Marsken",
+            "start": "2015-02-23",
+            "end": "2017-05-01",
+            "bevilget": 1596000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.686788,
+                "lng": 12.5153953
+            }
+        },
+        {
+            "id": 18,
+            "content": "PRJ-2015-00040",
+            "adresse": "\u00d8stergade 1-3,4270 H\u00f8ng",
+            "navn": "Forprojekt  for etablering af Vilhelm Pedersens Maskinfabrik",
+            "start": "2015-03-09",
+            "end": "2015-09-30",
+            "bevilget": 115000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.508631,
+                "lng": 11.2904084
+            }
+        },
+        {
+            "id": 19,
+            "content": "PRJ-2015-00031",
+            "adresse": "Njalsgade 17 B, Pakhus 2, 3. sal,2300 K\u00f8benhavn S",
+            "navn": "A new welfare",
+            "start": "2015-02-23",
+            "end": "2016-03-31",
+            "bevilget": 2000000,
+            "type": "point",
+            "group": 2,
+            "latlon": null
+        },
+        {
+            "id": 20,
+            "content": "PRJ-2014-00032",
+            "adresse": "Valn\u00f8ddev\u00e6nget 10,3000 Helsing\u00f8r",
+            "navn": "Villa H\u00f8jgaard, Snekkersten",
+            "start": "2014-03-27",
+            "end": "2016-04-01",
+            "bevilget": 4500000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 56.019785,
+                "lng": 12.59168
+            }
+        },
+        {
+            "id": 21,
+            "content": "PRJ-2014-00022",
+            "adresse": "Kalkv\u00e6rksvej 10,7850 Stoholm",
+            "navn": "M\u00f8nsted Kalkv\u00e6rk - Bevaring og istands\u00e6ttelse af et samlet kulturmilj\u00f8",
+            "start": "2014-03-06",
+            "end": "2015-12-31",
+            "bevilget": 15000000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 56.456924,
+                "lng": 9.165955
+            }
+        },
+        {
+            "id": 22,
+            "content": "PRJ-2015-00064",
+            "adresse": "Birk Centerpark 24,7400 Herning",
+            "navn": "Sanering af landbrugsbygninger",
+            "start": "2015-04-13",
+            "end": "2016-03-31",
+            "bevilget": 250000,
+            "type": "point",
+            "group": 4,
+            "latlon": {
+                "lat": 56.130555,
+                "lng": 9.02154
+            }
+        },
+        {
+            "id": 23,
+            "content": "PRJ-2015-00023",
+            "adresse": "Hans Schacksvej 4 ,5300 Kerteminde ",
+            "navn": "Forprojekt for h\u00f8jvandssikring i Kerteminde",
+            "start": "2015-02-23",
+            "end": "2015-07-31",
+            "bevilget": 322000,
+            "type": "point",
+            "group": 3,
+            "latlon": null
+        },
+        {
+            "id": 24,
+            "content": "PRJ-2015-00174",
+            "adresse": "\u00c6blehaven 23,6000 Kolding",
+            "navn": "Trapholt",
+            "start": "2015-04-27",
+            "end": "2018-09-01",
+            "bevilget": 175000,
+            "type": "point",
+            "group": 2,
+            "latlon": {
+                "lat": 55.499883,
+                "lng": 9.531842
+            }
+        },
+        {
+            "id": 25,
+            "content": "PRJ-2015-00175",
+            "adresse": "Borgergade 111,1300 K\u00f8benhavn K",
+            "navn": "Byggepipeline.dk - oversigt over st\u00f8rre byggeopgaver i Danmark",
+            "start": "2015-04-27",
+            "end": "2020-03-31",
+            "bevilget": 320000,
+            "type": "point",
+            "group": 5,
+            "latlon": {
+                "lat": 55.688044,
+                "lng": 12.588407
+            }
+        },
+        {
+            "id": 26,
+            "content": "PRJ-2015-00028",
+            "adresse": "Frederiksholms Kanal 20,1220 K\u00f8benhavn K",
+            "navn": "Civilsamfundets Journalistik 2015-2018",
+            "start": "2015-02-23",
+            "end": "2018-12-31",
+            "bevilget": 2000000,
+            "type": "point",
+            "group": 6,
+            "latlon": {
+                "lat": 55.6741999,
+                "lng": 12.576996
+            }
+        },
+        {
+            "id": 27,
+            "content": "PRJ-2015-00048",
+            "adresse": "H.C. Andersens Boulevard 2,1553 K\u00f8benhavn V",
+            "navn": "Videref\u00f8relse af kommunenetv\u00e6rk i 2015-19",
+            "start": "2015-03-24",
+            "end": "2019-03-31",
+            "bevilget": 750000,
+            "type": "point",
+            "group": 1,
+            "latlon": null
+        },
+        {
+            "id": 28,
+            "content": "PRJ-2015-00037",
+            "adresse": "Slotsgade 34,5800 Nyborg",
+            "navn": "Nyborg Slot - realiseringsprojekt",
+            "start": "2015-03-05",
+            "end": "2019-12-31",
+            "bevilget": 95000000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.312343,
+                "lng": 10.7874839
+            }
+        },
+        {
+            "id": 29,
+            "content": "PRJ-2015-00049",
+            "adresse": "Skovvejen 24, 1.sal,8000 Aarhus C",
+            "navn": "Herberger langs H\u00e6rvejen",
+            "start": "2015-03-24",
+            "end": "2015-12-31",
+            "bevilget": 190000,
+            "type": "point",
+            "group": 1,
+            "latlon": null
+        },
+        {
+            "id": 30,
+            "content": "PRJ-2014-00035",
+            "adresse": "Torvet 5,7400 Herning",
+            "navn": "Forunders\u00f8gelser, ",
+            "start": "2014-04-28",
+            "end": "2015-10-01",
+            "bevilget": 277000,
+            "type": "point",
+            "group": 3,
+            "latlon": null
+        },
+        {
+            "id": 31,
+            "content": "PRJ-2014-00045",
+            "adresse": "Den fremtidige adresse vil sandsynligvis blive den samme som Energiakademiets jf. ovenn\u00e6vnte. Den endelige placering i omr\u00e5det er endnu ikke fastlagt.,8305 Ballen",
+            "navn": "Samsborg v\/Selskabet Sams\u00f8 Energihotel Aps -trykpr\u00f8vning af projekt",
+            "start": "2014-05-12",
+            "end": "2014-10-01",
+            "bevilget": 150000,
+            "type": "point",
+            "group": 4,
+            "latlon": null
+        },
+        {
+            "id": 32,
+            "content": "PRJ-2014-00036",
+            "adresse": "M\u00f8llegade 15,6430 Nordborg",
+            "navn": "Maskinhuset Jollmands G\u00e5rd",
+            "start": "2014-04-28",
+            "end": "2015-10-01",
+            "bevilget": 1050000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.051521,
+                "lng": 9.702245
+            }
+        },
+        {
+            "id": 33,
+            "content": "PRJ-2014-00150",
+            "adresse": "Gr\u00f8nnegade 75 ,5600 Faaborg",
+            "navn": "Faaborg Museum. Et hovedv\u00e6rk i dansk arkitektur fylder 100 \u00e5r.",
+            "start": "2014-12-08",
+            "end": "2015-11-01",
+            "bevilget": 250000,
+            "type": "point",
+            "group": 1,
+            "latlon": null
+        },
+        {
+            "id": 34,
+            "content": "PRJ-2015-00178",
+            "adresse": "Hejrevej 30 2. sal,2400 K\u00f8benhavn NV",
+            "navn": "Forunders\u00f8gelsesfase ift. etablering af modelaktivitetshuse i yderomr\u00e5der ",
+            "start": "2015-04-27",
+            "end": "2015-08-31",
+            "bevilget": 350000,
+            "type": "point",
+            "group": 6,
+            "latlon": null
+        },
+        {
+            "id": 35,
+            "content": "PRJ-2015-00053",
+            "adresse": "Birkevej 15,5672 Broby",
+            "navn": "Det Nye X-Hus - Landsbyens dagligstue",
+            "start": "2015-03-24",
+            "end": "2016-05-01",
+            "bevilget": 1990000,
+            "type": "point",
+            "group": 0,
+            "latlon": null
+        },
+        {
+            "id": 36,
+            "content": "PRJ-2015-00528",
+            "adresse": "S\u00f8nderengen 94,2870 Dysseg\u00e5rd",
+            "navn": "Hus for tidlig og intensiv indsats",
+            "start": "2015-06-22",
+            "end": "2015-08-15",
+            "bevilget": 100000,
+            "type": "point",
+            "group": 0,
+            "latlon": null
+        },
+        {
+            "id": 37,
+            "content": "PRJ-2015-00056",
+            "adresse": "Borgergade 111,1300 K\u00f8benhavn K",
+            "navn": "Mere Kvalitet, Tak!",
+            "start": "2015-03-24",
+            "end": "2016-06-01",
+            "bevilget": 50000,
+            "type": "point",
+            "group": 1,
+            "latlon": null
+        },
+        {
+            "id": 38,
+            "content": "PRJ-2015-00318",
+            "adresse": "Guden\u00e5vej 7-9,8600 Silkeborg",
+            "navn": "Le Corbusier - what moves us? Eksperimenterende film",
+            "start": "2015-05-18",
+            "end": "2015-12-31",
+            "bevilget": 158000,
+            "type": "point",
+            "group": 2,
+            "latlon": {
+                "lat": 56.1613,
+                "lng": 9.558157
+            }
+        },
+        {
+            "id": 39,
+            "content": "PRJ-2014-00092",
+            "adresse": "Musv\u00e5gevej 24,2400 K\u00f8benhavn nv",
+            "navn": "Projekt sansehave",
+            "start": "2014-09-01",
+            "end": "2014-11-30",
+            "bevilget": 90000,
+            "type": "point",
+            "group": 0,
+            "latlon": {
+                "lat": 55.7013877,
+                "lng": 12.5282386
+            }
+        },
+        {
+            "id": 40,
+            "content": "PRJ-2014-00135",
+            "adresse": "Kystcentervej 31,7680 Thybor\u00f8n",
+            "navn": "De r\u00f8de barakker",
+            "start": "2014-11-24",
+            "end": "2015-06-06",
+            "bevilget": 4250000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 56.7055359,
+                "lng": 8.2137662
+            }
+        },
+        {
+            "id": 41,
+            "content": "PRJ-2015-00024",
+            "adresse": "Hekseh\u00f8jen 5B ,4700 N\u00e6stved",
+            "navn": "7PHN B\u00e6redygtige Byer og Bygninger",
+            "start": "2015-02-23",
+            "end": "2015-10-01",
+            "bevilget": 150000,
+            "type": "point",
+            "group": 5,
+            "latlon": {
+                "lat": 55.218223,
+                "lng": 11.785348
+            }
+        },
+        {
+            "id": 42,
+            "content": "PRJ-2014-00066",
+            "adresse": "Hejlskovvej 15,7840 H\u00f8jslev",
+            "navn": "Et styrket forretningsgrundlag for \u00d8rslev Kloster",
+            "start": "2014-06-23",
+            "end": "2014-11-30",
+            "bevilget": 300000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 56.597904,
+                "lng": 9.21789
+            }
+        },
+        {
+            "id": 43,
+            "content": "PRJ-2015-00314",
+            "adresse": "Pasteursvej 14, 4. tv. (6. etage),1799 K\u00f8benhavn V",
+            "navn": "Liveability",
+            "start": "2015-05-18",
+            "end": "2016-01-01",
+            "bevilget": 75000,
+            "type": "point",
+            "group": 3,
+            "latlon": {
+                "lat": 55.6656504,
+                "lng": 12.535498
+            }
+        },
+        {
+            "id": 44,
+            "content": "PRJ-2015-00660",
+            "adresse": "F\u00e6rgevej 4,8500 Grenaa",
+            "navn": "Teknisk unders\u00f8gelse i forbindelse med udvikling af Kattegatcentret",
+            "start": "2015-08-31",
+            "end": "2015-12-01",
+            "bevilget": 250000,
+            "type": "point",
+            "group": 4,
+            "latlon": {
+                "lat": 56.4062049,
+                "lng": 10.926766
+            }
+        },
+        {
+            "id": 45,
+            "content": "PRJ-2015-00664",
+            "adresse": "Adelgade 44,8660 Skanderborg",
+            "navn": "VAND OG CROSSFIT I L\u00c5SBY - sammenh\u00e6ng mellem aktiviteter, klimavand og byliv",
+            "start": "2015-09-22",
+            "end": "2015-12-01",
+            "bevilget": 2500000,
+            "type": "point",
+            "group": 3,
+            "latlon": {
+                "lat": 56.031468,
+                "lng": 9.932978
+            }
+        },
+        {
+            "id": 46,
+            "content": "PRJ-2014-00086",
+            "adresse": "Birk Centerpark 8,7400 Herning",
+            "navn": "HEART - Befugtningsanl\u00e6g",
+            "start": "2014-08-18",
+            "end": "2015-04-01",
+            "bevilget": 500000,
+            "type": "point",
+            "group": 2,
+            "latlon": {
+                "lat": 56.132419,
+                "lng": 9.0224472
+            }
+        },
+        {
+            "id": 47,
+            "content": "PRJ-2014-00075",
+            "adresse": "Borgergade 111,1300 Kbh K",
+            "navn": "Et levende Bygningskulturens Hus ",
+            "start": "2014-08-18",
+            "end": "2014-11-30",
+            "bevilget": 1200000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.688044,
+                "lng": 12.588407
+            }
+        },
+        {
+            "id": 48,
+            "content": "PRJ-2014-00084",
+            "adresse": "Doktorvejen 2 ,9940 L\u00e6s\u00f8",
+            "navn": "L\u00e6s\u00f8 - en \u00d8 i udvikling - strategisk analyse ",
+            "start": "2014-08-18",
+            "end": "2015-03-31",
+            "bevilget": 500000,
+            "type": "point",
+            "group": 4,
+            "latlon": {
+                "lat": 57.2562977,
+                "lng": 10.9993934
+            }
+        },
+        {
+            "id": 49,
+            "content": "PRJ-2015-00667",
+            "adresse": "Vestergade 20,7400 Herning",
+            "navn": "Transformation af Herning Kl\u00e6defabrik til Det nye Textilforum. ",
+            "start": "2015-10-05",
+            "end": "2017-12-31",
+            "bevilget": 100000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 56.1362448,
+                "lng": 8.9632562
+            }
+        },
+        {
+            "id": 50,
+            "content": "PRJ-2015-00662",
+            "adresse": "Metrovej 5,2300 K\u00f8benhavn S",
+            "navn": "Nye byrum ved tidligere metrobyggepladser",
+            "start": "2015-09-22",
+            "end": "2016-01-01",
+            "bevilget": 300000,
+            "type": "point",
+            "group": 3,
+            "latlon": {
+                "lat": 55.6254545,
+                "lng": 12.5783173
+            }
+        },
+        {
+            "id": 51,
+            "content": "PRJ-2015-00526",
+            "adresse": "N\u00f8rre Voldgade 106,1358 K\u00f8benhavn K",
+            "navn": "Opbygning af videncenter for h\u00e5ndtering og genanvendelse af byggeaffald",
+            "start": "2015-06-22",
+            "end": "2018-09-01",
+            "bevilget": 3000000,
+            "type": "point",
+            "group": 5,
+            "latlon": {
+                "lat": 55.6842064,
+                "lng": 12.5737614
+            }
+        },
+        {
+            "id": 52,
+            "content": "PRJ-2015-00656",
+            "adresse": "Laksetorvet 1,8900 Randers C",
+            "navn": "Byen til Vandet - unders\u00f8gelse af potentiale for \u00f8get befolkningstilv\u00e6kst",
+            "start": "2015-08-31",
+            "end": "2015-12-31",
+            "bevilget": 250000,
+            "type": "point",
+            "group": 3,
+            "latlon": {
+                "lat": 56.457298,
+                "lng": 10.035002
+            }
+        },
+        {
+            "id": 53,
+            "content": "PRJ-2015-00521",
+            "adresse": "Svinget 11,6800 Varde",
+            "navn": "Remisen ved Varde Vest, forprojekt",
+            "start": "2015-06-22",
+            "end": "2016-01-31",
+            "bevilget": 400000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.6244366,
+                "lng": 8.4764231
+            }
+        },
+        {
+            "id": 54,
+            "content": "PRJ-2013-00575",
+            "adresse": "Brog\u00e5rdsvej 72,2820 Gentofte",
+            "navn": "Poul Henningssens hus",
+            "start": "2013-10-31",
+            "end": "2014-12-31",
+            "bevilget": 5600000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.754216,
+                "lng": 12.52537
+            }
+        },
+        {
+            "id": 55,
+            "content": "PRJ-2014-00101",
+            "adresse": "Jorden Rundt 1 ,7200 Grindsted ",
+            "navn": "Billund Byvision",
+            "start": "2014-09-29",
+            "end": "2015-08-30",
+            "bevilget": 2500000,
+            "type": "point",
+            "group": 3,
+            "latlon": {
+                "lat": 55.752591,
+                "lng": 8.927729
+            }
+        },
+        {
+            "id": 56,
+            "content": "PRJ-2014-00096",
+            "adresse": "Tommelise 60,7500 Holstebro",
+            "navn": "Sunde boliger, Holstebro",
+            "start": "2014-08-25",
+            "end": "2016-12-31",
+            "bevilget": 3990000,
+            "type": "point",
+            "group": 5,
+            "latlon": {
+                "lat": 56.3565077,
+                "lng": 8.6838641
+            }
+        },
+        {
+            "id": 57,
+            "content": "PRJ-2014-00108",
+            "adresse": "Fussingsvej 8,8700 Horsens",
+            "navn": "Forunders\u00f8gelse - F\u00c6NGSLET - fra social byrde til kulturel dynamo",
+            "start": "2014-09-29",
+            "end": "2015-05-30",
+            "bevilget": 2500000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.8740712,
+                "lng": 9.8362411
+            }
+        },
+        {
+            "id": 58,
+            "content": "PRJ-2015-00045",
+            "adresse": "Strandgade 27B,1401 K\u00f8benhavn K",
+            "navn": "Byggeforeninger for fremtiden",
+            "start": "2015-03-09",
+            "end": "2015-12-31",
+            "bevilget": 3000000,
+            "type": "point",
+            "group": 6,
+            "latlon": {
+                "lat": 55.675772,
+                "lng": 12.591101
+            }
+        },
+        {
+            "id": 59,
+            "content": "PRJ-2014-00109",
+            "adresse": "Haslevvej 81,4100 Ringsted",
+            "navn": "Det \u00c5ndbare Hus - Diffusions\u00e5bne Konstruktioner",
+            "start": "2014-09-29",
+            "end": "2017-06-30",
+            "bevilget": 1250400,
+            "type": "point",
+            "group": 5,
+            "latlon": {
+                "lat": 55.4262372,
+                "lng": 11.8257657
+            }
+        },
+        {
+            "id": 60,
+            "content": "PRJ-2014-00093",
+            "adresse": "Molsvej 34,8410 R\u00f8nde",
+            "navn": "Bes\u00f8gscenter for Danmarks vilde dyr og deres levesteder",
+            "start": "2014-09-01",
+            "end": "2016-03-31",
+            "bevilget": 3125000,
+            "type": "point",
+            "group": 4,
+            "latlon": {
+                "lat": 56.281451,
+                "lng": 10.488139
+            }
+        },
+        {
+            "id": 61,
+            "content": "PRJ-2014-00097",
+            "adresse": "Adelgade 20,4720 Pr\u00e6st\u00f8",
+            "navn": "St\u00f8berihallerne i Pr\u00e6st\u00f8",
+            "start": "2014-09-18",
+            "end": "2015-12-31",
+            "bevilget": 10000000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.120946,
+                "lng": 12.0389932
+            }
+        },
+        {
+            "id": 62,
+            "content": "PRJ-2015-00666",
+            "adresse": "Vognporten 2,2620 Albertslund",
+            "navn": "St\u00f8jplagede borgere \u2013 hvordan v\u00e6rdis\u00e6ttes effekter p\u00e5 sundhed og livskvalitet",
+            "start": "2015-09-22",
+            "end": "2016-05-30",
+            "bevilget": 270000,
+            "type": "point",
+            "group": 5,
+            "latlon": null
+        },
+        {
+            "id": 63,
+            "content": "PRJ-2015-00179",
+            "adresse": "Dalagervej 6 ,8960 Randers S\u00d8",
+            "navn": "Myretuen",
+            "start": "2015-04-27",
+            "end": "2017-01-01",
+            "bevilget": 500000,
+            "type": "point",
+            "group": 0,
+            "latlon": {
+                "lat": 56.434798,
+                "lng": 10.243231
+            }
+        },
+        {
+            "id": 64,
+            "content": "PRJ-2015-00658",
+            "adresse": "K\u00e6rmindevej 4,3460 Birker\u00f8d",
+            "navn": "Renovering af ",
+            "start": "2015-08-31",
+            "end": "2015-10-14",
+            "bevilget": 50000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.83221,
+                "lng": 12.430921
+            }
+        },
+        {
+            "id": 65,
+            "content": "PRJ-2013-00563",
+            "adresse": "Museumsvej 19,3120 Dronningm\u00f8lle",
+            "navn": "Rudolph Tegners Museum, handlingsplan",
+            "start": "2013-10-30",
+            "end": "2014-07-01",
+            "bevilget": 94000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 56.086436,
+                "lng": 12.400541
+            }
+        },
+        {
+            "id": 66,
+            "content": "PRJ-2014-00151",
+            "adresse": "B\u00f8ssemagergade 21,3150 Helleb\u00e6k",
+            "navn": "Renovering af Hammerm\u00f8llens M\u00f8llehjul",
+            "start": "2014-12-08",
+            "end": "2015-07-31",
+            "bevilget": 80026.25,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 56.065191,
+                "lng": 12.553876
+            }
+        },
+        {
+            "id": 67,
+            "content": "PRJ-2013-00564",
+            "adresse": "Pasteursvej 14, 4. tv.,1799 K\u00f8benhavn V",
+            "navn": "Hvad t\u00e6nker arkitekten p\u00e5?, bogudgivelse",
+            "start": "2013-10-30",
+            "end": "2014-12-01",
+            "bevilget": 75000,
+            "type": "point",
+            "group": 6,
+            "latlon": null
+        },
+        {
+            "id": 68,
+            "content": "PRJ-2013-00562",
+            "adresse": "Herlufsholm All\u00e9 170,4700 N\u00e6stved",
+            "navn": "Herlufsholm Skole - R\u00f8de Plads",
+            "start": "2013-10-30",
+            "end": "2015-12-31",
+            "bevilget": 6800000,
+            "type": "point",
+            "group": 1,
+            "latlon": null
+        },
+        {
+            "id": 69,
+            "content": "PRJ-2013-00580",
+            "adresse": "Thomas B. Triges gade,5000 Odense C",
+            "navn": "Bof\u00e6llesskabet TBT",
+            "start": "2013-12-11",
+            "end": "2014-05-31",
+            "bevilget": 250000,
+            "type": "point",
+            "group": 3,
+            "latlon": null
+        },
+        {
+            "id": 70,
+            "content": "PRJ-2013-00556",
+            "adresse": "Universitetsvej 1,4000 Roskilde",
+            "navn": "Den samfunds\u00f8konomiske betydning af civilsamfundet og non-profit aktiviteter i Danmark anno 2014",
+            "start": "2013-10-09",
+            "end": "2016-12-31",
+            "bevilget": 4318296,
+            "type": "point",
+            "group": 6,
+            "latlon": {
+                "lat": 55.6547654,
+                "lng": 12.1395321
+            }
+        },
+        {
+            "id": 71,
+            "content": "PRJ-2013-00560",
+            "adresse": "Jernbanevej 7,7700 Thisted",
+            "navn": "Moleroplevelsescenter, forunders\u00f8gelse",
+            "start": "2013-10-30",
+            "end": "2014-06-01",
+            "bevilget": 290000,
+            "type": "point",
+            "group": 4,
+            "latlon": {
+                "lat": 56.9540324,
+                "lng": 8.6906337
+            }
+        },
+        {
+            "id": 72,
+            "content": "PRJ-2014-00137",
+            "adresse": "Stovbyvej 19A,4873 V\u00e6ggerl\u00f8se",
+            "navn": "Tag- og Facadebekl\u00e6dning Stouby M\u00f8lle",
+            "start": "2014-11-24",
+            "end": "2015-10-01",
+            "bevilget": 70000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 54.715242,
+                "lng": 11.932646
+            }
+        },
+        {
+            "id": 73,
+            "content": "PRJ-2014-00116",
+            "adresse": "Jarmers Plads 2,1551 K\u00f8benhavn V",
+            "navn": "Magasin om det byggede Danmark II - byggesektoren - boligens \u00f8konomi",
+            "start": "2014-09-29",
+            "end": "2015-04-15",
+            "bevilget": 750000,
+            "type": "point",
+            "group": 6,
+            "latlon": {
+                "lat": 55.679476,
+                "lng": 12.564626
+            }
+        },
+        {
+            "id": 74,
+            "content": "PRJ-2015-00522",
+            "adresse": "R\u00e5dmandsgade 34,2200 K\u00f8benhavn",
+            "navn": "R\u00e5dmandsgade 34",
+            "start": "2015-06-22",
+            "end": "2015-05-30",
+            "bevilget": 305000,
+            "type": "point",
+            "group": 1,
+            "latlon": null
+        },
+        {
+            "id": 75,
+            "content": "PRJ-2014-00123",
+            "adresse": "Hovedgaden 77 ,8410 R\u00f8nde",
+            "navn": "Udviklingsplan for Ebeltoft by og Havn",
+            "start": "2014-10-27",
+            "end": "2015-05-30",
+            "bevilget": 495000,
+            "type": "point",
+            "group": 4,
+            "latlon": {
+                "lat": 56.3016655,
+                "lng": 10.4698693
+            }
+        },
+        {
+            "id": 76,
+            "content": "PRJ-2015-00642",
+            "adresse": "Pasteursvej 14, 4. tv. (6. etage),1799 K\u00f8benhavn V",
+            "navn": "Udgivelse af bogen Bag Kulissen-Dansk historicisme if\u00f8lge Vilhlem Klein",
+            "start": "2015-08-17",
+            "end": "2016-05-31",
+            "bevilget": 50000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.6656504,
+                "lng": 12.535498
+            }
+        },
+        {
+            "id": 77,
+            "content": "PRJ-2014-00052",
+            "adresse": "Guldagervej 525 ,9800 Hj\u00f8rring",
+            "navn": "Kornets Hus",
+            "start": "2014-06-11",
+            "end": "2015-06-30",
+            "bevilget": 200000,
+            "type": "point",
+            "group": 4,
+            "latlon": {
+                "lat": 57.40821,
+                "lng": 10.01847
+            }
+        },
+        {
+            "id": 78,
+            "content": "PRJ-2015-00519",
+            "adresse": "Strandgade 27B,1401 K\u00f8benhavn K",
+            "navn": "Deleby",
+            "start": "2015-06-22",
+            "end": "2017-11-30",
+            "bevilget": 4750000,
+            "type": "point",
+            "group": 3,
+            "latlon": {
+                "lat": 55.675772,
+                "lng": 12.591101
+            }
+        },
+        {
+            "id": 79,
+            "content": "PRJ-2014-00134",
+            "adresse": "Studiestr\u00e6de 50,1554 K\u00f8benhavn V",
+            "navn": "Her kan alle bo - En udstilling om forstadsudviklingen",
+            "start": "2014-11-24",
+            "end": "2015-12-31",
+            "bevilget": 500000,
+            "type": "point",
+            "group": 3,
+            "latlon": {
+                "lat": 55.6773382,
+                "lng": 12.5655196
+            }
+        },
+        {
+            "id": 80,
+            "content": "PRJ-2015-00032",
+            "adresse": "\u00d8stergade 13 ,7600 Struer",
+            "navn": "Brobuerne i Struer",
+            "start": "2015-03-05",
+            "end": "2018-12-31",
+            "bevilget": 14000000,
+            "type": "point",
+            "group": 3,
+            "latlon": {
+                "lat": 56.492191,
+                "lng": 8.593959
+            }
+        },
+        {
+            "id": 81,
+            "content": "PRJ-2015-00681",
+            "adresse": "Staldgade 26-30,1699 K\u00f8benhavn V",
+            "navn": "Nyt teater i fredet bygning i K\u00f8dbyen",
+            "start": "2015-11-02",
+            "end": "2016-03-31",
+            "bevilget": 2500000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.668239,
+                "lng": 12.562363
+            }
+        },
+        {
+            "id": 82,
+            "content": "PRJ-2015-00042",
+            "adresse": "Roskildevej 32,2000 Frederiksberg",
+            "navn": "ZOO Det gamle elefanthus",
+            "start": "2015-03-09",
+            "end": "2015-04-22",
+            "bevilget": 348400,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 55.6716766,
+                "lng": 12.523459
+            }
+        },
+        {
+            "id": 83,
+            "content": "PRJ-2015-00680",
+            "adresse": "Nystedvej 73,4891 Toreby L.",
+            "navn": "Fuglsang. Kursusejendom for K\u00f8benhavns Universitet",
+            "start": "2015-11-02",
+            "end": "2016-05-31",
+            "bevilget": 300000,
+            "type": "point",
+            "group": 1,
+            "latlon": null
+        },
+        {
+            "id": 84,
+            "content": "PRJ-2015-00533",
+            "adresse": "Strandgade 27B,1401 K\u00f8benhavn K",
+            "navn": "STUDIO MUMBAI \u2013 mellem solen og m\u00e5nen",
+            "start": "2015-06-22",
+            "end": "2016-02-28",
+            "bevilget": 1300000,
+            "type": "point",
+            "group": 2,
+            "latlon": {
+                "lat": 55.675772,
+                "lng": 12.591101
+            }
+        },
+        {
+            "id": 85,
+            "content": "PRJ-2015-00663",
+            "adresse": "R\u00e5dhusgade 1,7620 Lemvig",
+            "navn": "Lemvig Bedding og \u00d8sthavn",
+            "start": "2015-09-22",
+            "end": "2017-12-31",
+            "bevilget": 250000,
+            "type": "point",
+            "group": 3,
+            "latlon": {
+                "lat": 56.5496871,
+                "lng": 8.3105711
+            }
+        },
+        {
+            "id": 86,
+            "content": "PRJ-2015-00414",
+            "adresse": "Holstebrovej 101,7560 Hjerm",
+            "navn": "Kraftcenter for F\u00f8devarer - Forprojekt",
+            "start": "2015-06-01",
+            "end": "2015-12-30",
+            "bevilget": 200000,
+            "type": "point",
+            "group": 4,
+            "latlon": null
+        },
+        {
+            "id": 87,
+            "content": "PRJ-2015-00532",
+            "adresse": "Slotspladsen 4,9000 Aalborg",
+            "navn": "Udstilling - Alting Gror",
+            "start": "2015-06-22",
+            "end": "2016-01-31",
+            "bevilget": 1000000,
+            "type": "point",
+            "group": 6,
+            "latlon": null
+        },
+        {
+            "id": 88,
+            "content": "PRJ-2015-00016",
+            "adresse": "R\u00e5dmandshaven 20,4700 N\u00e6stved",
+            "navn": "Foranalyse Holmegaard Glasv\u00e6rk - udviklingsstrategi for et levende kulturmilj\u00f8 ",
+            "start": "2015-01-26",
+            "end": "2015-05-11",
+            "bevilget": 350000,
+            "type": "point",
+            "group": 1,
+            "latlon": null
+        },
+        {
+            "id": 89,
+            "content": "PRJ-2014-00037",
+            "adresse": "Stavreby Strandvej 41,4720 Pr\u00e6st\u00f8",
+            "navn": "Jungshoveds Transformatort\u00e5rne",
+            "start": "2014-04-28",
+            "end": "2015-02-10",
+            "bevilget": 50000,
+            "type": "point",
+            "group": 1,
+            "latlon": null
+        },
+        {
+            "id": 90,
+            "content": "PRJ-2014-00130",
+            "adresse": "R\u00e5dhus All\u00e9 100 ,9900 Frederikshavn",
+            "navn": "Paradiskajen",
+            "start": "2014-11-10",
+            "end": "2015-12-31",
+            "bevilget": 0,
+            "type": "point",
+            "group": 4,
+            "latlon": {
+                "lat": 57.441285,
+                "lng": 10.532743
+            }
+        },
+        {
+            "id": 91,
+            "content": "PRJ-2015-00039",
+            "adresse": "N\u00f8rreport 20 ,8000 Aarhus C",
+            "navn": "Homepage ICOMOS DK",
+            "start": "2015-03-09",
+            "end": "2015-02-11",
+            "bevilget": 50000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 56.1612494,
+                "lng": 10.2124633
+            }
+        },
+        {
+            "id": 92,
+            "content": "PRJ-2013-00570",
+            "adresse": "Kalkv\u00e6rksvej 10,7850 Stoholm Jyll",
+            "navn": "M\u00f8nsted Kalkgruber, forunders\u00f8gelse",
+            "start": "2013-11-11",
+            "end": "2014-05-01",
+            "bevilget": 260000,
+            "type": "point",
+            "group": 1,
+            "latlon": null
+        },
+        {
+            "id": 93,
+            "content": "PRJ-2015-00003",
+            "adresse": "Frederiksborgvej 399,4000 Roskilde",
+            "navn": "2. European Climate Change Adaptation conference (ECCA2015)",
+            "start": "2015-01-12",
+            "end": "2015-05-14",
+            "bevilget": 150000,
+            "type": "point",
+            "group": 3,
+            "latlon": {
+                "lat": 55.6925729,
+                "lng": 12.1030021
+            }
+        },
+        {
+            "id": 94,
+            "content": "PRJ-2015-00026",
+            "adresse": "B\u00f8geskov H\u00f8vej 10,8260 Viby J",
+            "navn": "Naturens menukort",
+            "start": "2015-02-23",
+            "end": "2015-01-14",
+            "bevilget": 1500000,
+            "type": "point",
+            "group": 0,
+            "latlon": null
+        },
+        {
+            "id": 95,
+            "content": "PRJ-2015-00038",
+            "adresse": "Nordre Ringgade 1,8000 Aarhus C",
+            "navn": "Udarbejdelse af konkurrenceprogram og konkurrence for helhedsplan for Aarhus Universitet",
+            "start": "2015-03-09",
+            "end": "2017-07-15",
+            "bevilget": 3000000,
+            "type": "point",
+            "group": 3,
+            "latlon": null
+        },
+        {
+            "id": 96,
+            "content": "PRJ-2014-00089",
+            "adresse": "Thorsvej 4,8230 \u00c5byh\u00f8j",
+            "navn": "ELV\u00c6RKET \u00c5BYH\u00d8J",
+            "start": "2014-09-01",
+            "end": "2015-02-02",
+            "bevilget": 2000000,
+            "type": "point",
+            "group": 1,
+            "latlon": {
+                "lat": 56.1545848,
+                "lng": 10.1659366
+            }
+        },
+        {
+            "id": 97,
+            "content": "PRJ-2014-00141",
+            "adresse": "Testcentervej,7700 Thisted",
+            "navn": "Bes\u00f8gscenter \u00d8sterild",
+            "start": "2014-11-24",
+            "end": "2015-12-31",
+            "bevilget": 5000000,
+            "type": "point",
+            "group": 4,
+            "latlon": null
+        },
+        {
+            "id": 98,
+            "content": "PRJ-2015-00535",
+            "adresse": "Eskilstrupvej 34,4500 Nyk\u00f8bing Sj",
+            "navn": "Jan Gehl og den menneskelige dimension (arbejdstitel)",
+            "start": "2015-06-22",
+            "end": "2016-05-01",
+            "bevilget": 373790,
+            "type": "point",
+            "group": 3,
+            "latlon": null
+        },
+        {
+            "id": 99,
+            "content": "PRJ-2015-00661",
+            "adresse": "Jarmers Plads 2,1551 ",
+            "navn": "Underst\u00f8ttelse af DAC i BLOX",
+            "start": "2015-09-17",
+            "end": "2024-12-31",
+            "bevilget": 125000000,
+            "type": "point",
+            "group": 6,
+            "latlon": null
+        },
+        {
+            "id": 100,
+            "content": "PRJ-2015-00018",
+            "adresse": "Borgergade 111,1300 K\u00f8benhavn K",
+            "navn": "European Group of Lean Construction",
+            "start": "2015-01-26",
+            "end": "2014-11-20",
+            "bevilget": 65000,
+            "type": "point",
+            "group": 5,
+            "latlon": null
+        },
+        {
+            "id": 101,
+            "content": "PRJ-2015-00312",
+            "adresse": "Jarmers Plads 2,1551 ",
+            "navn": "Evaluering af udstillingsaktiviteter 2015",
+            "start": "2015-05-18",
+            "end": "2015-09-30",
+            "bevilget": 300000,
+            "type": "point",
+            "group": 6,
+            "latlon": {
+                "lat": 55.679476,
+                "lng": 12.564626
+            }
+        }
+    ],
+    "bevillinger": {
+        "max": 150000000,
+        "min": 0
+    }
+}
